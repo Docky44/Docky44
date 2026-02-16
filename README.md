@@ -1,28 +1,28 @@
 ## Hey 👋
 
-Développeur **Back-End & Full Stack** basé en France, passionné par la **data**, l'**architecture logicielle** et l'**automatisation**.
+**Back-End & Full Stack Developer** based in France, passionate about **data**, **software architecture** and **automation**.
 
-### 🛠 Stack principale
+### 🛠 Main Stack
 
 ```
 Back-end      NestJS · TypeScript · GraphQL · Node.js · Python · Next.js · Prisma
 Front-end     ReactJS · React Native · Tailwind CSS
-Data & BDD    PostgreSQL · SQL · ETL · Data Quality
+Data & DB     PostgreSQL · SQL · ETL · Data Quality
 DevOps        Git · Docker · CI/CD
 ```
 
-### 💼 Expérience
+### 💼 Experience
 
-**3 ans d'alternance** chez un éditeur ERP, où j'ai conçu et développé en autonomie un outil interne de reprise, fiabilisation de données et automatisation de process métiers.
+**3 years of work-study** at an ERP software company, where I designed and built an internal data verification, remediation and business process automation tool — fully owned end-to-end.
 
-### 🚀 Ce qui m'intéresse
+### 🚀 Interests
 
-- Data Engineering & pipelines de données
-- Architecture back-end & micro-services
-- Automatisation de process métiers
-- Intégration d'APIs tierces
-- IA appliquée (Claude API, IA générative)
+- Data Engineering & data pipelines
+- Back-end architecture & microservices
+- Business process automation
+- Third-party API integrations
+- Applied AI (Claude API, generative AI)
 
 ---
 
-*Disponible à partir de septembre 2026 · Ouvert aux opportunités en France et à l'international*
+*Available from September 2026 · Open to opportunities in France and internationally*
